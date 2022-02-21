@@ -13,6 +13,5 @@ spring:
       lower-case-service-id: true
 eureka:
   client:
-    serviceUrl:
-         defaultZone: http://localhost:9000/shopee-naming-server/eureka
+      register-with-eureka: true
   instance.prefer-ip-address: true

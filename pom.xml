@@ -7,7 +7,7 @@
 		<version>2.6.3</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>om.learn.microservices</groupId>
+	<groupId>com.learn.microservices</groupId>
 	<artifactId>shopee-api-gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
